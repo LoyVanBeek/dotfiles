@@ -1,0 +1,4 @@
+--ignore-dir=build
+--ignore-dir=build*
+--ignore-dir=devel
+--ignore-dir=.catkin_tools
